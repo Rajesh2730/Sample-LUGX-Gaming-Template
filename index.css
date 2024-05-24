@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(7, 101, 223);
+}
+.major-div{
+    height: 35rem;
+    width: 100%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 550;
+}
+.header{
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    padding-top: 2rem;
+}
+.nav-logo{
+    margin-left: 3rem;
+}
+.nav-btns{
+    margin-left: 45rem;
+}
+.n-btn1{
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.858);
+    color: white;
+    border-radius: 16px;
+    height: 2rem;
+    width: 4.5rem;
+    background-color: rgb(255, 255, 255,.4);
+}
+.n-btn{
+    margin-left: 1rem;
+    border: 0;
+    color: white;
+    border-radius: 16px;
+    height: 2rem;
+    width: 7.4rem;
+    background: transparent;
+}
+.signin{
+    margin-left: 1.5rem;
+    border: 0 solid rgba(255, 255, 255, 0.858);
+    color: white;
+    border-radius: 16px;
+    height: 2rem;
+    width: 4.5rem;
+    background-color: rgb(255, 2, 2);
+}
+.cont{
+    margin-top: 6rem;
+    display: flex;
+    margin-left: 3rem;
+}
+.txt{
+    height: 2.5rem;
+    width: 14rem;
+    border: 0;
+    border-radius: 20px;
+    padding-left: 1.5rem;
+    margin-top: 2rem;
+}
+.s-btn{
+    height: 2.7rem;
+    width: 8rem;
+    border: 0;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(255, 2, 2);
+    margin-left: -3rem;
+    
+}
+.cont2{
+    margin-left: 15rem;
+    height: 20rem;
+    width: 18rem;
+    border: 0;
+}
+.game{
+    height: 20rem;
+    width: 18rem;
+    border-radius: 9px;
+}
+.round{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    background-color: rgb(224, 29, 29);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 61rem;
+    top: -2rem;
+}
+.rate{
+    background-color: rgb(7, 101, 223);
+    border: 0;
+    border-radius: 20px;
+    position: relative;
+    left: 76rem;
+    top: -23rem;
+    width: fit-content;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    padding-top: .3rem;
+    padding-bottom: .3rem;
+}
